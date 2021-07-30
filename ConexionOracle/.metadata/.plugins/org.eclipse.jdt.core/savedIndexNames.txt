@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\user\Memoria Santiago\Java_Sophos\ConexionOracle\.metadata\.plugins\org.eclipse.jdt.core
+4088832729.index
+679400122.index
+1783466546.index
